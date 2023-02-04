@@ -1,16 +1,11 @@
 # clima
 
 A new Flutter project.
+visit the app structure:https://whimsical.com/weather-app-69AeypWTFNxeirNHS3qykU
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+##API:OPENWEATHERMAP
+CLONE AND RUN
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![weather](https://user-images.githubusercontent.com/94393895/216756930-d8f4349d-1f5a-4dcd-aeff-8ec0492a5ac6.jpg)
